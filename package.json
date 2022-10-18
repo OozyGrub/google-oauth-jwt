@@ -1,0 +1,18 @@
+{
+  "name": "google-oauth-jwt",
+  "version": "1.0.0",
+  "description": "Google OAuth JWT generating for server-to-server applications",
+  "main": "index.js",
+  "author": "Krit Kruaykitanon",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "axios": "^1.1.3",
+    "crypto": "^1.0.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.0",
+    "typescript": "^4.8.4"
+  }
+}
